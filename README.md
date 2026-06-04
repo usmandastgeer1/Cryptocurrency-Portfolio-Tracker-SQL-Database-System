@@ -80,3 +80,7 @@ SELECT * FROM v_active_alerts;
 - Add login system
 - Add FIFO/LIFO profit-loss calculation
 - Add charts using Power BI or Python
+
+![ERD](diagrams/erd.png)
+
+![Relational Schema](diagrams/relational_schema.png)
