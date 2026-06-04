@@ -81,6 +81,10 @@ SELECT * FROM v_active_alerts;
 - Add FIFO/LIFO profit-loss calculation
 - Add charts using Power BI or Python
 
-![ERD](diagrams/erd.png)
+## Entity Relationship Diagram
 
-![Relational Schema](diagrams/relational_schema.png)
+![ERD](erd.png)
+
+## Relational Schema
+
+![Relational Schema](relational_schema.png)
